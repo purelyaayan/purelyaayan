@@ -1,4 +1,4 @@
-<h1 align="left">Hey there, I'm Sami! 👋</h1>
+<h1 align="left">Hey there, I'm Aayan ! 👋</h1>
 
 ###
 
@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">UI/UX creator, frontend dev & CS50 grinder<br>*powered by way too much coffee ☕*<br><br>Spotify runs my life, if you catch me without headphones, send help 🎧<br>Sleepy is sanity. No cap. 😴💯</p>
+<p align="left">Game Developer, frontend dev & just learning stuff out<br>*powered by way too much Monster Drinks*<br><br></p>
 
 ###
 
