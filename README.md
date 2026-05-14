@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">UI/UX creator, frontend dev & CS50 grinder<br>*powered by way too much coffee ☕*<br><br>Spotify runs my life, if you catch me without headphones, send help 🎧<br>Sleepy is sanity. No cap. 😴💯</p>
+<p align="left">UI/UX creator, frontend dev & CS50 grinder<br>*powered by way too much coffee ☕*<br><br>Spotify runs my life, if you catch me without headphones, send help 🎧<br>Sleep is sanity. No cap. 😴💯</p>
 
 ###
 
