@@ -10,10 +10,6 @@
 
 ###
 
-<div align="left">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=purelyaayan.purelyaayan&"  />
-</div>
-
 ###
 
 <div align="left">
