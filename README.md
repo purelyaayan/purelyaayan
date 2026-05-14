@@ -50,7 +50,7 @@
 ###
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app?username=SleepyCatHey&theme=tokyonight&column=7&row=1&margin-w=2&no-frame=true&no-bg=false&margin-h=0" height="150" alt="trophy graph"  />
+  <img src="https://github-profile-trophy.vercel.app?username=purelyaayan&theme=tokyonight&column=7&row=1&margin-w=2&no-frame=true&no-bg=false&margin-h=0" height="150" alt="trophy graph"  />
 </div>
 
 ###
